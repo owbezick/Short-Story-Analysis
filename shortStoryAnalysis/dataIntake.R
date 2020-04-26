@@ -54,7 +54,20 @@ story_text <- story_df %>%
 story_sentiment <- get_nrc_sentiment(story_text)
 
 
+# Sentence by Sentence Sentiment
+sentences <- tokenize_sentences(story_str)
 
+sentences_df <- data_frame(
+  sentences = unlist(sentences)
+)
+
+sentence_char_vector <- sentences_df %>%
+  select(sentences) %>%
+  pull()
+
+sentence_sentiment <- get_nrc_sentiment(sentence_char_vector)
+
+sentence_sentiment <- merge(sentences_df, sentence_sentiment, by = 0)
 
 # FSentiment Bar Chart Function
 sentimentBar <- function(df, title){
