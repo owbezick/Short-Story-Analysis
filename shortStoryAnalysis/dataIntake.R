@@ -4,8 +4,6 @@ source("libraries.R", local = TRUE)
 raw_lines <- pdf_text("stories/ernest_hemmingway.pdf") %>%
   read_lines()
 
-
-
 # Text Preprocessing ----
 # Extract interview Lines
 raw_story <- raw_lines[3:144]
@@ -67,9 +65,16 @@ sentence_char_vector <- sentences_df %>%
 
 sentence_sentiment <- get_nrc_sentiment(sentence_char_vector)
 
-sentence_sentiment <- merge(sentences_df, sentence_sentiment, by = 0)
+merged <- merge(sentences_df, sentence_sentiment, by = 0) %>%
+  mutate(sentence = as.numeric(Row.names))
 
-# FSentiment Bar Chart Function
+merged <- merged %>%
+  mutate(total_sentiment = negative+anger+disgust+fear+sadness+anticipation+joy+surprise+trust+positive)
+
+sentences_by_sentiment <- merged[order(merged$total_sentiment, decreasing= T),]
+sentences_by_story <- merged[order(merged$sentence),]
+
+# Sentiment Bar Chart Function
 sentimentBar <- function(df, title){
   df %>%
     e_chart(chart) %>%

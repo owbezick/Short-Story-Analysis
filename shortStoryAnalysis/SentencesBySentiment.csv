@@ -1,0 +1,164 @@
+"","Row.names","sentences","anger","anticipation","disgust","fear","joy","sadness","surprise","trust","negative","positive","sentence","total_sentiment"
+"1","1","It was very late and everyone had left the cafe except an old man who sat in the shadow the leaves of the tree made against the electric light.",1,1,1,0,2,1,2,1,1,3,1,13
+"29","124","""It is not only a question of youth and confidence although those things are very beautiful.",1,1,0,2,3,0,1,1,0,4,124,13
+"12","109","""You have youth, confidence, and a job,"" the older waiter said.""",1,1,0,2,2,1,1,1,0,3,109,12
+"39","133","Turning off the electric light he continued the conversation with himself, It was the light of course but it is necessary that the place be clean and pleasant.",0,1,0,0,3,0,2,2,0,3,133,11
+"87","3","The two waiters inside the cafe knew that the old man was a little drunk, and while he was a good client they knew that if he became too drunk he would leave without paying, so they kept watch on him.",0,2,0,1,1,1,2,1,1,2,3,11
+"70","161","Hewould lie in the bed and finally, with daylight, he would go to sleep.",1,1,2,0,1,1,1,1,1,1,161,10
+"33","128","This is a clean and pleasant cafe.",0,1,0,0,2,0,1,2,0,3,128,9
+"13","11","They sat together at a table that was close against the wall near the door of the cafe and looked at the terrace where the tableswere all empty except where the old man sat in the shadow of the leaves of the tree that moved slightly in the wind.",1,1,1,0,1,0,1,1,0,2,11,8
+"19","115","I have never had confidence and I am not young.""",0,1,0,1,2,0,1,1,0,2,115,8
+"76","2","In the day time the street was dusty, but at night the dew settled the dust and the old man liked to sit late because he was deaf and now at night it was quiet and he felt the difference.",0,1,0,0,0,2,0,0,3,1,2,7
+"2","10","""He has plenty of money.""",1,1,0,0,1,0,1,1,0,1,10,6
+"37","131","""Good night,"" said the younger waiter.",0,1,0,0,1,0,1,1,0,2,131,6
+"110","50","""How much money has he got?""",1,1,0,0,1,0,1,1,0,1,50,6
+"6","103","You have no fear of going home before your usual hour?""",1,0,0,1,0,0,0,1,1,1,103,5
+"7","104","""Are you trying to insult me?""",1,0,1,0,0,1,1,0,1,0,104,5
+"36","130","The light is very good and also, now, there are shadows of the leaves.""",0,1,0,0,1,0,1,1,0,1,130,5
+"38","132","""Good night,"" the other said.",0,1,0,0,1,0,1,1,0,1,132,5
+"49","142","Our nada who art in nada, nada be thy name thy kingdom nada thy will be nada in nada as it is in nada.",0,1,0,0,1,1,1,0,0,1,142,5
+"52","145","He smiled and stood before a bar with a shining steam pressure coffee machine.",0,1,0,0,1,0,0,1,1,1,145,5
+"60","152","""The light is very bright and pleasant but the bar is unpolished,""the waiter said.",0,1,0,0,1,0,1,1,0,1,152,5
+"117","57","""He's lonely.",1,0,1,1,0,1,0,0,1,0,57,5
+"118","58","I'm not lonely.",1,0,1,1,0,1,0,0,1,0,58,5
+"120","6","""He was in despair.""",1,0,1,1,0,1,0,0,1,0,6,5
+"122","61","""A wife would be no good to him now.""",0,1,0,0,1,0,1,1,0,1,61,5
+"129","68","An old man is a nasty thing.""",1,0,1,1,0,1,0,0,1,0,68,5
+"9","106","""No,"" the waiter who was in a hurry said, rising from pulling down the metal shutters.",0,2,0,0,1,0,0,0,0,1,106,4
+"10","107","""I have confidence.",0,0,0,1,1,0,0,1,0,1,107,4
+"11","108","I am all confidence.""",0,0,0,1,1,0,0,1,0,1,108,4
+"22","118","""I am of those who like to stay late at the cafe,"" the older waitersaid.",0,0,0,0,0,2,0,0,1,1,118,4
+"51","144","Hail nothing full of nothing, nothing is with thee.",0,0,0,0,0,0,0,1,1,2,144,4
+"57","15","""The guard will pick him up,"" one waiter said.",0,0,0,1,0,0,0,1,0,2,15,4
+"67","159","A clean, well-lighted cafe was a very different thing.",0,0,0,0,1,0,0,1,0,2,159,4
+"94","36","The waiter poured on into the glass so that the brandy slopped over and ran down the stem into the top saucer of the pile.""",0,1,0,0,0,0,0,1,1,1,36,4
+"98","4","""Last week he tried to commit suicide,"" one waiter said.",1,0,0,1,0,1,0,0,1,0,4,4
+"141","79","""Finished,"" he said, speaking with that omission of syntax stupid people employ when talking to drunken people or foreigners.",0,0,1,0,0,0,0,1,2,0,79,4
+"24","12","A girl and a soldier went by in the street.",1,0,0,0,0,1,0,0,0,1,12,3
+"30","125","Each night I am reluctant to close up because there may be some  one who needs the cafe.""",0,0,0,1,0,0,0,0,1,1,125,3
+"40","134","You do not want music.",0,0,0,0,1,1,0,0,0,1,134,3
+"41","135","Certainly you do not want music.",0,0,0,0,1,1,0,0,0,1,135,3
+"43","137","What did he fear?",1,0,0,1,0,0,0,0,1,0,137,3
+"44","138","It was not a fear ordread, It was a nothing that he knew too well.",1,0,0,1,0,0,0,0,1,0,138,3
+"66","158","He disliked bars and bodegas.",1,0,0,0,0,1,0,0,1,0,158,3
+"74","18","The guard will get him.",0,0,0,1,0,0,0,1,0,1,18,3
+"101","42","""What did he want to kill himself for?""",0,0,0,1,0,1,0,0,1,0,42,3
+"108","49","""Fear for his soul.""",1,0,0,1,0,0,0,0,1,0,49,3
+"115","55","I never get to bed before three o'clock.What kind of hour is that to go to bed?""",0,0,0,0,1,0,0,1,0,1,55,3
+"132","70","This old man is clean.",0,0,0,0,1,0,0,1,0,1,70,3
+"3","100","He did not wish to be unjust.",1,0,0,0,0,0,0,0,1,0,100,2
+"42","136","Nor can you stand before a bar with dignity although that is all that isprovided for these hours.",0,0,0,0,0,0,0,1,0,1,136,2
+"46","14","The girl wore no head covering and hurried beside him.",0,1,0,0,0,0,0,0,1,0,14,2
+"62","154","It was too late at night for conversation.",0,0,0,0,0,1,0,0,1,0,154,2
+"89","31","The waiter took the brandy bottle and another saucer from thecounter inside the cafe and marched out to the old man's table.",0,0,0,0,0,0,0,0,1,1,31,2
+"90","32","Heput down the saucer and poured the glass full of brandy.",0,0,0,0,0,0,0,0,1,1,32,2
+"150","87","The waiter watched him go down the street, a very oldman walking unsteadily but with dignity.",0,0,0,0,0,0,0,1,0,1,87,2
+"163","99","""No, it is not,"" agreed the waiter with a wife.",0,0,0,0,0,0,0,1,0,1,99,2
+"4","101","He was only in a hurry.",0,1,0,0,0,0,0,0,0,0,101,1
+"8","105","""No, hombre, only to make a joke.""",0,0,0,0,0,0,0,0,1,0,105,1
+"15","111","""And what do you lack?""",0,0,0,0,0,0,0,0,1,0,111,1
+"21","117","Stop talking nonsense and lock up.""",0,0,0,0,0,0,0,0,1,0,117,1
+"27","122","""We are of two different kinds,"" the older waiter said.",0,0,0,0,0,1,0,0,0,0,122,1
+"31","126","""Hombre, there are bodegas open all night long.""",0,1,0,0,0,0,0,0,0,0,126,1
+"50","143","Give usthis nada our daily nada and nada us our nada as we nada our nadas and nada us not into nada but deliver us from nada; pues nada.",0,1,0,0,0,0,0,0,0,0,143,1
+"78","21","The younger waiter went over to him.",0,0,0,0,0,0,0,0,0,1,21,1
+"81","24","""Another brandy,"" he said.",0,0,0,0,0,0,0,0,1,0,24,1
+"96","38","The waiter took the bottle back inside the cafe.",0,0,0,0,0,0,0,0,0,1,38,1
+"139","77","""Another brandy,"" he said, pointing to his glass.",0,0,0,0,0,0,0,0,1,0,77,1
+"140","78","The waiter who was in a hurry came over.",0,1,0,0,0,0,0,0,0,0,78,1
+"160","96","""You talk like an old man yourself.",0,0,0,0,0,0,0,0,0,1,96,1
+"5","102","""And you?",0,0,0,0,0,0,0,0,0,0,102,0
+"14","110","You have everything.""",0,0,0,0,0,0,0,0,0,0,110,0
+"16","112","""Everything but work.""",0,0,0,0,0,0,0,0,0,0,112,0
+"17","113","""You have everything I have.""",0,0,0,0,0,0,0,0,0,0,113,0
+"18","114","""No.",0,0,0,0,0,0,0,0,0,0,114,0
+"20","116","""Come on.",0,0,0,0,0,0,0,0,0,0,116,0
+"23","119","""With all those who do not want to go to bed.",0,0,0,0,0,0,0,0,0,0,119,0
+"25","120","With all those who need a light for the night.""",0,0,0,0,0,0,0,0,0,0,120,0
+"26","121","""I want to go home and into bed.""",0,0,0,0,0,0,0,0,0,0,121,0
+"28","123","He was now dressed to go home.",0,0,0,0,0,0,0,0,0,0,123,0
+"32","127","""You do not understand.",0,0,0,0,0,0,0,0,0,0,127,0
+"34","129","It is well lighted.",0,0,0,0,0,0,0,0,0,0,129,0
+"35","13","The street light shone on the brass number on his collar.",0,0,0,0,0,0,0,0,0,0,13,0
+"45","139","It was all anothing and a man was a nothing too.",0,0,0,0,0,0,0,0,0,0,139,0
+"47","140","It was only that and light was all it needed and a certain cleanness and order.",0,0,0,0,0,0,0,0,0,0,140,0
+"48","141","Some lived init and never felt it but he knew it all was nada y pues nada y naday pues nada.",0,0,0,0,0,0,0,0,0,0,141,0
+"53","146","""What's yours?""",0,0,0,0,0,0,0,0,0,0,146,0
+"54","147","asked the barman.",0,0,0,0,0,0,0,0,0,0,147,0
+"55","148","""Nada.""",0,0,0,0,0,0,0,0,0,0,148,0
+"56","149","""Otro loco mas,"" said the barman and turned away.",0,0,0,0,0,0,0,0,0,0,149,0
+"58","150","""A little cup,"" said the waiter.",0,0,0,0,0,0,0,0,0,0,150,0
+"59","151","The barman poured it for him.",0,0,0,0,0,0,0,0,0,0,151,0
+"61","153","The barman looked at him but did not answer.",0,0,0,0,0,0,0,0,0,0,153,0
+"63","155","""You want another copita?""",0,0,0,0,0,0,0,0,0,0,155,0
+"64","156","the barman asked.",0,0,0,0,0,0,0,0,0,0,156,0
+"65","157","""No, thank you,"" said the waiter and went out.",0,0,0,0,0,0,0,0,0,0,157,0
+"68","16","""What does it matter if he gets what he's after?""",0,0,0,0,0,0,0,0,0,0,16,0
+"69","160","Now, without thinking further, he would go home to his room.",0,0,0,0,0,0,0,0,0,0,160,0
+"71","162","After all, he said to himself, it's probably only insomnia.",0,0,0,0,0,0,0,0,0,0,162,0
+"72","163","Many must have it.",0,0,0,0,0,0,0,0,0,0,163,0
+"73","17","""He had better get off the street now.",0,0,0,0,0,0,0,0,0,0,17,0
+"75","19","They went by five minutes ago.""",0,0,0,0,0,0,0,0,0,0,19,0
+"77","20","The old man sitting in the shadow rapped on his saucer with his glass.",0,0,0,0,0,0,0,0,0,0,20,0
+"79","22","""What do you want?""",0,0,0,0,0,0,0,0,0,0,22,0
+"80","23","The old man looked at him.",0,0,0,0,0,0,0,0,0,0,23,0
+"82","25","""You'll be drunk,"" the waiter said.",0,0,0,0,0,0,0,0,0,0,25,0
+"83","26","The old man looked at him.",0,0,0,0,0,0,0,0,0,0,26,0
+"84","27","The waiter went away.",0,0,0,0,0,0,0,0,0,0,27,0
+"85","28","""He'll stay all night,"" he said to his colleague.",0,0,0,0,0,0,0,0,0,0,28,0
+"86","29","""I'm sleepy now.I never get into bed before three o'clock.",0,0,0,0,0,0,0,0,0,0,29,0
+"88","30","He should have killed himself last week.""",0,0,0,0,0,0,0,0,0,0,30,0
+"91","33","""You should have killed yourself last week,"" he said to the deafman.",0,0,0,0,0,0,0,0,0,0,33,0
+"92","34","The old man motioned with his finger.",0,0,0,0,0,0,0,0,0,0,34,0
+"93","35","""A little more,"" hesaid.",0,0,0,0,0,0,0,0,0,0,35,0
+"95","37","Thank you,"" the old man said.",0,0,0,0,0,0,0,0,0,0,37,0
+"97","39","He sat down at the table with his colleague again.",0,0,0,0,0,0,0,0,0,0,39,0
+"99","40","""He's drunk now,"" he said.",0,0,0,0,0,0,0,0,0,0,40,0
+"100","41","""He's drunk every night.""",0,0,0,0,0,0,0,0,0,0,41,0
+"102","43","""How should I know.""",0,0,0,0,0,0,0,0,0,0,43,0
+"103","44","""How did he do it?""",0,0,0,0,0,0,0,0,0,0,44,0
+"104","45","""He hung himself with a rope.""",0,0,0,0,0,0,0,0,0,0,45,0
+"105","46","""Who cut him down?""",0,0,0,0,0,0,0,0,0,0,46,0
+"106","47","""His niece.""",0,0,0,0,0,0,0,0,0,0,47,0
+"107","48","""Why did they do it?""",0,0,0,0,0,0,0,0,0,0,48,0
+"109","5","""Why?""",0,0,0,0,0,0,0,0,0,0,5,0
+"111","51","""He's got plenty.""",0,0,0,0,0,0,0,0,0,0,51,0
+"112","52","""He must be eighty years old.""",0,0,0,0,0,0,0,0,0,0,52,0
+"113","53","""Anyway I should say he was eighty.""",0,0,0,0,0,0,0,0,0,0,53,0
+"114","54","""I wish he would go home.",0,0,0,0,0,0,0,0,0,0,54,0
+"116","56","""He stays up because he likes it.""",0,0,0,0,0,0,0,0,0,0,56,0
+"119","59","I have a wife waiting in bed for me.""",0,0,0,0,0,0,0,0,0,0,59,0
+"121","60","""He had a wife once too.""",0,0,0,0,0,0,0,0,0,0,60,0
+"123","62","""You can't tell.",0,0,0,0,0,0,0,0,0,0,62,0
+"124","63","He might be better with a wife.""",0,0,0,0,0,0,0,0,0,0,63,0
+"125","64","""His niece looks after him.",0,0,0,0,0,0,0,0,0,0,64,0
+"126","65","You said she cut him down.""",0,0,0,0,0,0,0,0,0,0,65,0
+"127","66","""I know.""",0,0,0,0,0,0,0,0,0,0,66,0
+"128","67","""I wouldn't want to be that old.",0,0,0,0,0,0,0,0,0,0,67,0
+"130","69","""Not always.",0,0,0,0,0,0,0,0,0,0,69,0
+"131","7","""What about?""",0,0,0,0,0,0,0,0,0,0,7,0
+"133","71","He drinks without spilling.Even now, drunk.",0,0,0,0,0,0,0,0,0,0,71,0
+"134","72","Look at him.""",0,0,0,0,0,0,0,0,0,0,72,0
+"135","73","""I don't want to look at him.",0,0,0,0,0,0,0,0,0,0,73,0
+"136","74","I wish he would go home.",0,0,0,0,0,0,0,0,0,0,74,0
+"137","75","He has no regard for those who must work.""",0,0,0,0,0,0,0,0,0,0,75,0
+"138","76","The old man looked from his glass across the square, then over at the waiters.",0,0,0,0,0,0,0,0,0,0,76,0
+"142","8","""Nothing.""",0,0,0,0,0,0,0,0,0,0,8,0
+"143","80","""Nomore tonight.",0,0,0,0,0,0,0,0,0,0,80,0
+"144","81","Close now.""",0,0,0,0,0,0,0,0,0,0,81,0
+"145","82","""Another,"" said the old man.",0,0,0,0,0,0,0,0,0,0,82,0
+"146","83","""No.",0,0,0,0,0,0,0,0,0,0,83,0
+"147","84","Finished.""",0,0,0,0,0,0,0,0,0,0,84,0
+"148","85","The waiter wiped the edge of the table with a towel and shook his head.",0,0,0,0,0,0,0,0,0,0,85,0
+"149","86","The old man stood up, slowly counted the saucers, took a leathercoin purse from his pocket and paid for the drinks, leaving half a peseta tip.",0,0,0,0,0,0,0,0,0,0,86,0
+"151","88","""Why didn't you let him stay and drink?""",0,0,0,0,0,0,0,0,0,0,88,0
+"152","89","the unhurried waiter asked.",0,0,0,0,0,0,0,0,0,0,89,0
+"153","9","""How do you know it was nothing?""",0,0,0,0,0,0,0,0,0,0,9,0
+"154","90","They were putting up the shutters.",0,0,0,0,0,0,0,0,0,0,90,0
+"155","91","""It is not half-past two.""",0,0,0,0,0,0,0,0,0,0,91,0
+"156","92","""I want to go home to bed.""",0,0,0,0,0,0,0,0,0,0,92,0
+"157","93","""What is an hour?""",0,0,0,0,0,0,0,0,0,0,93,0
+"158","94","""More to me than to him.""",0,0,0,0,0,0,0,0,0,0,94,0
+"159","95","""An hour is the same.""",0,0,0,0,0,0,0,0,0,0,95,0
+"161","97","He can buy a bottle and drinkat home.""",0,0,0,0,0,0,0,0,0,0,97,0
+"162","98","""It's not the same.""",0,0,0,0,0,0,0,0,0,0,98,0
