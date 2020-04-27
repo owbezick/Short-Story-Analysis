@@ -1,0 +1,460 @@
+"","Row.names","sentences","anger","anticipation","disgust","fear","joy","sadness","surprise","trust","negative","positive","sentence","total_sentiment"
+"1","1","Anders couldn't get to the bank until just before it closed, so of course the line was endless and he got stuck behind two women whose loud, stupid conversation put him in a murderous temper.",2,0,1,2,1,2,1,2,3,1,1,15
+"112","2","He was never in the best of tempers anyway, Anders - a book critic known for the weary, elegant savagery with which he dispatched almost everything he reviewed.",1,0,0,1,1,1,0,0,3,1,2,8
+"223","3","With the line still doubled around the rope, one of the tellers stuck a ""POSITION CLOSED"" sign in her window and walked to the back of the bank, where she leaned against a desk and began to pass the time with a man shuffling papers.",0,1,0,0,0,0,0,1,0,0,3,2
+"334","4","The women in front of Anders broke off their conversation and watched the teller with hatred.",1,0,1,2,0,2,0,0,2,0,4,8
+"405","5","""Oh, that's nice,"" one of them said.",0,0,0,0,0,0,0,0,0,0,5,0
+"416","6","She turned to Anders and added, confident of his accord, ""One of those little human touches that keep us coming back for more.""",0,1,0,0,1,0,0,2,0,2,6,6
+"427","7","Anders had conceived his own towering hatred of the teller, but he immediately turned it on the presumptuous crybaby in front of him.",2,2,2,2,0,1,0,0,3,2,7,14
+"438","8","""Damned unfair,"" he said.",1,0,1,0,0,1,0,0,2,0,8,5
+"449","9","""Tragic, really.",0,0,0,0,0,0,0,0,1,0,9,1
+"2","10","If they're not chopping off the wrong leg, or bombing your ancestral village, they're closing their positions.""",0,0,0,0,0,0,0,1,1,0,10,2
+"13","11","She stood her ground.",0,0,0,0,0,0,0,1,0,0,11,1
+"24","12","""I didn't say it was tragic,"" she said.",0,0,0,0,0,0,0,0,1,0,12,1
+"35","13","""I just think it's a pretty lousy way to treat your customers.""",1,2,1,1,2,1,1,2,1,2,13,14
+"46","14","""Unforgivable,"" Anders said.",0,0,0,0,0,0,0,0,0,0,14,0
+"57","15","""Heaven will take note.""",0,0,0,0,0,0,0,0,0,0,15,0
+"68","16","She sucked in her cheeks but stared past him and said nothing.",0,0,0,0,0,0,0,0,0,0,16,0
+"79","17","Anders saw that the other woman, her friend, was looking in the same direction.",0,0,0,0,1,0,0,1,0,1,17,3
+"90","18","And then the tellers stopped what they were doing, and the customers slowly turned, and silence came over the bank.",0,0,0,0,0,0,0,1,0,0,18,1
+"101","19","Two men wearing black ski masks and blue business suits were standing to the side of the door.",0,0,0,0,0,2,0,0,1,1,19,4
+"113","20","One of them had a pistol pressed against the guard's neck.",0,0,0,0,0,0,0,0,1,0,20,1
+"124","21","The guard's eyes were closed, and his lips were moving.",0,0,0,0,0,0,0,0,0,0,21,0
+"135","22","The other man had a sawed-off shotgun.",0,0,0,0,0,0,0,0,0,0,22,0
+"146","23","""Keep your big mouth shut!""",0,0,0,0,0,0,1,0,0,0,23,1
+"157","24","the man with the pistol said, though no one had spoken a word.",0,0,0,0,0,0,0,1,1,1,24,3
+"168","25","""One of you tellers hits the alarm, you're all dead meat.",0,0,0,1,0,0,1,0,1,0,25,3
+"179","26","Got it?""",0,0,0,0,0,0,0,0,0,0,26,0
+"190","27","The tellers nodded.",0,0,0,0,0,0,0,0,0,0,27,0
+"201","28","1  ""Oh, bravo, "" Anders said.",0,0,0,0,0,0,0,0,0,0,28,0
+"212","29","""Dead meat.""",0,0,0,0,0,0,0,0,0,0,29,0
+"224","30","He turned to the woman in front of him.",0,0,0,0,0,0,0,0,0,0,30,0
+"235","31","""Great script, eh?",0,0,0,0,0,0,0,0,0,1,31,1
+"246","32","The stern, brass-knuckled poetry of the dangerous classes.""",0,0,0,1,0,0,0,0,2,0,32,3
+"257","33","She looked at him with drowning eyes.",0,0,0,0,0,0,0,0,0,0,33,0
+"268","34","The man with the shotgun pushed the guard to his knees.",0,0,0,1,0,0,0,1,0,1,34,3
+"279","35","He handed up the shotgun to his partner and yanked the guard's wrists up behind his back and locked them together with a pair of handcuffs.",0,0,0,0,0,0,0,0,0,1,35,1
+"290","36","He toppled him onto the floor with a kick between the shoulder blades.",1,0,0,0,0,0,0,1,1,1,36,4
+"301","37","Then he took his shotgun back and went over to the security gate at the end of the counter.",0,0,0,0,0,0,0,1,0,0,37,1
+"312","38","He was short and heavy and moved with peculiar slowness, even torpor.",0,0,0,0,0,0,0,0,1,0,38,1
+"323","39","""Buzz him in,"" his partner said.",0,1,0,1,0,0,0,0,0,2,39,4
+"335","40","The man with the shotgun opened the gate and sauntered along the line of tellers, handing each of them a Hefty bag.",0,0,0,0,0,0,0,1,0,0,40,1
+"346","41","When he came to the empty position he looked over at the man with the pistol, who said, ""Whose slot is that?""",0,0,0,0,0,0,0,0,1,0,41,1
+"357","42","Anders watched the teller.",0,0,0,0,0,0,0,0,0,0,42,0
+"368","43","She put her hand to her throat and turned to the man she'd been talking to.",0,0,0,0,0,0,0,0,0,0,43,0
+"379","44","He nodded.",0,0,0,0,0,0,0,0,0,0,44,0
+"390","45","""Mine,"" she said.",0,0,0,0,0,0,0,0,0,0,45,0
+"401","46","""Then get your ugly ass in gear and fill that bag.""",0,0,1,0,0,0,0,1,2,1,46,5
+"402","47","""There you go,"" Anders said to the woman in front of him.",0,0,0,0,0,0,0,0,0,0,47,0
+"403","48","""Justice is done.""",0,0,0,0,0,0,0,1,0,1,48,2
+"404","49","""Hey!",0,0,0,0,0,0,0,0,0,0,49,0
+"406","50","Bright boy!",0,0,1,0,0,0,0,0,1,0,50,2
+"407","51","Did I tell you talk?""",0,0,0,0,0,0,0,0,0,1,51,1
+"408","52","""No,"" Anders said.",0,0,0,0,0,0,0,0,0,0,52,0
+"409","53","""Then shut your trap.""",0,0,0,0,0,0,0,0,0,0,53,0
+"410","54","""Did you hear that?""",0,0,0,0,0,0,0,0,0,0,54,0
+"411","55","Anders said.",0,0,0,0,0,0,0,0,0,0,55,0
+"412","56","""'Bright boy.'",0,0,1,0,0,0,0,0,1,0,56,2
+"413","57","Right out of 'The Killers'.""",0,0,0,0,0,0,0,0,0,0,57,0
+"414","58","""Please be quiet,"" the woman said.",0,0,0,0,0,1,0,0,0,1,58,2
+"415","59","""Hey, you deaf or what?""",0,0,0,0,0,0,0,0,1,0,59,1
+"417","60","The man with the pistol walked over to Anders.",0,0,0,0,0,0,0,0,1,0,60,1
+"418","61","He poked the weapon into Anders' gut.",0,0,1,0,0,0,0,0,0,0,61,1
+"419","62","""You think I'm playing games?'",0,0,0,0,0,0,0,0,0,0,62,0
+"420","63","""No,"" Anders said, but the barrel tickled like a stiff finger and he had to fight back the titters.",1,0,0,1,0,0,0,0,2,0,63,4
+"421","64","He did this by making himself stare into the man's eyes, which were clearly visible behind the holes in the mask: pale blue, and rawly red-rimmed.",0,0,0,0,0,1,0,0,0,0,64,1
+"422","65","The man's left eyelid kept twitching.",0,0,0,0,0,0,0,0,0,0,65,0
+"423","66","He breathed out a piercing, ammoniac smell that shocked Anders more than anything that had happened, and he was beginning to                                                                                 2  develop a sense of unease when the man prodded him again with the pistol.",1,1,1,0,0,0,0,0,2,2,66,7
+"424","67","""You like me, bright boy?""",0,0,1,0,0,0,0,0,1,0,67,2
+"425","68","he said.",0,0,0,0,0,0,0,0,0,0,68,0
+"426","69","""You want to suck my dick?""",0,0,0,0,0,0,0,0,1,0,69,1
+"428","70","""No,"" Anders said.",0,0,0,0,0,0,0,0,0,0,70,0
+"429","71","""Then stop looking at me.""",0,0,0,0,0,0,0,0,0,0,71,0
+"430","72","Anders fixed his gaze on the man's shiny wing-top shoes.",0,1,0,0,0,0,0,2,0,1,72,4
+"431","73","""Not down there.",0,0,0,0,0,0,0,0,0,0,73,0
+"432","74","Up there.""",0,0,0,0,0,0,0,0,0,0,74,0
+"433","75","He stuck the pistol under Anders' chin and pushed it upward until Anders was looking at the ceiling.",0,0,0,0,0,0,0,0,1,0,75,1
+"434","76","Anders had never paid much attention to that part of the bank, a pompous old building with marble floors and counters and pillars, and gilt scrollwork over the tellers' cages.",0,0,1,0,0,0,0,1,1,2,76,5
+"435","77","The domed ceiling had been decorated with mythological figures whose fleshy, toga-draped ugliness Anders had taken in at a glance many years earlier and afterward declined to notice.",0,0,1,1,0,1,0,0,2,0,77,5
+"436","78","Now he had no choice but to scrutinize the painter's work.",0,1,0,0,0,0,0,0,1,1,78,3
+"437","79","It was even worse than he remembered, and all of it executed with the utmost gravity.",0,0,0,1,0,1,0,0,1,0,79,3
+"439","80","The artist had a few tricks up his sleeve and used them again and again - a certain rosy blush on the underside of the clouds, a coy backward glance on the faces of the cupids and fauns.",0,0,0,1,0,0,0,0,2,1,80,4
+"440","81","The ceiling was crowded with various dramas, but the one that caught Anders' eye was Zeus and Europa - portrayed, in this rendition, as a bull ogling a cow from behind a haystack.",0,0,0,0,0,0,0,0,0,0,81,0
+"441","82","To make the cow sexy, the painter had canted her hips suggestively and given her long, droopy eyelashes through which she gazed back at the bull with sultry welcome.",0,1,0,0,0,0,0,0,0,1,82,2
+"442","83","The bull wore a smirk and his eyebrows were arched.",0,0,0,0,0,0,0,0,1,0,83,1
+"443","84","If there'd been a bubble coming out of his mouth, it would have said, ""Hubba hubba.""",0,1,0,0,0,0,1,0,0,0,84,2
+"444","85","""What's so funny, bright boy?""",0,0,1,0,0,0,0,0,1,0,85,2
+"445","86","""Nothing.""",0,0,0,0,0,0,0,0,0,0,86,0
+"446","87","""You think I'm comical?",0,0,0,0,0,0,0,0,0,0,87,0
+"447","88","You think I'm some kind of clown?""",0,1,0,0,2,0,1,1,0,2,88,7
+"448","89","""No.""",0,0,0,0,0,0,0,0,0,0,89,0
+"450","90","""You think you can fuck with me?""",0,0,0,0,0,0,0,0,0,0,90,0
+"451","91","""No.""",0,0,0,0,0,0,0,0,0,0,91,0
+"452","92","3  ""Fuck with me again, you're history.",0,0,0,0,0,0,0,0,0,0,92,0
+"453","93","Capiche?""",0,0,0,0,0,0,0,0,0,0,93,0
+"454","94","Anders burst our laughing.",0,0,0,0,1,0,0,0,0,1,94,2
+"455","95","He covered his mouth with both hands and said, ""I'm sorry, I'm sorry,"" then snorted helplessly through his fingers and said, "" Capiche - oh, God, capiche,"" and at that the man with the pistol raised the pistol and shot Anders right in the head.",1,1,0,2,1,1,2,1,2,1,95,12
+"456","96","The bullet smashed Anders' skull and ploughed through his brain and exited behind his right ear, scattering shards of bone into the cerebral cortex, the corpus callosum, back toward the basal ganglia, and down into the thalamus.",0,0,0,0,0,0,0,0,1,1,96,2
+"457","97","But before all this occurred, the first appearance of the bullet in the cerebrum set off a crackling chain of ion transports and neurotransmissions.",0,0,0,0,0,0,0,0,0,0,97,0
+"458","98","Because of their peculiar origin these traced a peculiar patter, flukishly calling to life a summer afternoon some forty years past, and long since lost to memory.",1,1,0,0,0,1,0,0,2,0,98,5
+"459","99","After striking the cranium the bullet was moving at 900 feet per second, a pathetically sluggish, glacial pace compared to the synaptic lighting that flashed around it.",0,0,0,0,0,1,0,0,2,1,99,4
+"3","100","Once in the brain, that is, the bullet came under the mediation of brain time, which gave Anders plenty of leisure to contemplate the scene that, in a phrase he would have abhorred, ""passed before his eyes.""",0,2,0,0,1,0,1,1,0,2,100,7
+"4","101","It is worth noting what Ambers did not remember, given what he did remember.",0,0,0,0,0,0,0,0,0,1,101,1
+"5","102","He did not remember his first lover, Sherry, or what he had most madly loved about her, before it came to irritate him - her unembarrassed carnality, and especially the cordial way she had with his unit, which she called Mr.",0,1,0,0,1,0,0,1,0,1,102,4
+"6","103","Mole, as in, ""Uh-oh, looks like Mr.",0,0,0,0,0,0,0,0,0,0,103,0
+"7","104","Mole wants to play,"" and ""Let's hide Mr.",0,0,0,1,0,0,0,0,0,0,104,1
+"8","105","Mole!""",0,0,0,0,0,0,0,0,0,0,105,0
+"9","106","Anders did not remember his wife, whom he had also loved before she exhausted him with her predictability, or his daughter, now a sullen professor of economics at Dartmouth.",1,0,0,0,1,2,0,1,2,2,106,9
+"10","107","He did not remember standing just outside his daughter's door as she lectured her bear about his naughtiness and described the truly appalling punishments Paws would receive unless he changed his ways.",1,0,1,2,0,0,0,0,1,1,107,6
+"11","108","He did not remember a single line of the hundreds of poems he had committed to memory in his youth so that he could give himself the shivers at will - not ""Silent, upon a peak in Darien,"" or ""My God, I heard this day,"" or ""All my pretty ones?",1,3,0,2,3,0,1,3,0,4,108,17
+"12","109","Did you say all?",0,0,0,0,0,0,0,0,0,0,109,0
+"14","110","0 hell-kite!",1,0,2,1,0,1,0,0,2,0,110,7
+"15","111","All?""",0,0,0,0,0,0,0,0,0,0,111,0
+"16","112","None of these did he remember; not one.",0,0,0,0,0,0,0,0,0,0,112,0
+"17","113","Anders did not remember his dying mother saying of his father, ""I should have stabbed him in his sleep.""",1,1,1,1,1,2,0,2,2,1,113,12
+"18","114","He did not remember Professor Josephs telling his class how Athenian prisoners in Sicily had been released if they could recite Aeschylus, and then reciting Aeschylus himself, right there, in the Greek.",0,0,0,0,0,0,0,1,0,1,114,2
+"19","115","Anders did not remember how his eyes had burned at those sounds.",0,0,0,0,0,0,0,0,0,0,115,0
+"20","116","He did not remember the surprise of seeing a college classmate's                                                                                  4  name on the jacket of a novel not long after they graduated, or the respect he had felt after reading the book.",0,2,0,1,2,0,1,1,0,3,116,10
+"21","117","He did not remember the pleasure of giving respect.",0,1,0,0,1,0,0,1,0,2,117,5
+"22","118","Nor did Anders remember seeing a woman leap to her death from the building opposite his own just days after his daughter was born.",1,1,1,1,1,1,1,0,1,2,118,10
+"23","119","He did not remember shouting, ""Lord have mercy!""",0,0,1,0,0,0,0,1,1,2,119,5
+"25","120","He did not remember deliberately crashing his father's car in to a tree, of having his ribs kicked in by three policemen at an anti-war rally, or waking himself up with laughter.",1,2,1,1,2,0,2,1,1,2,120,13
+"26","121","He did not remember when he began to regard the heap of books on his desk with boredom and dread, or when he grew angry at writers for writing them.",1,1,1,1,0,1,0,0,3,0,121,8
+"27","122","He did not remember when everything began to remind him of something else.",0,0,0,0,0,0,0,0,0,0,122,0
+"28","123","This is what he remembered.",0,0,0,0,0,0,0,0,0,0,123,0
+"29","124","Heat.",0,0,0,0,0,0,0,0,0,0,124,0
+"30","125","A baseball field.",0,0,0,0,0,0,0,0,0,0,125,0
+"31","126","Yellow grass, the whirr of insects, himself leaning against a tree as the boys of the neighborhood gather for a pickup game.",1,2,1,0,1,0,1,2,0,1,126,9
+"32","127","He looks on as the others argue the relative genius of Mantle and Mays.",1,0,0,0,0,0,0,1,1,1,127,4
+"33","128","They have been worrying this subject all summer, and it has become tedious to Anders: an oppression, like the heat.",1,1,1,2,0,2,0,0,4,0,128,11
+"34","129","Then the last two boys arrive, Coyle and a cousin of his from Mississippi.",0,1,0,0,0,0,0,0,0,0,129,1
+"36","130","Anders has never met Coyle's cousin before and will never see him again.",0,0,0,0,0,0,0,0,0,0,130,0
+"37","131","He says hi with the rest but takes no further notice of him until they've chosen sides and someone asks the cousin what position he wants to play.",0,0,0,0,0,0,0,0,0,2,131,2
+"38","132","""Shortstop,"" the boy says.",0,0,1,0,0,0,0,0,1,0,132,2
+"39","133","""Short's the best position they is.""",0,0,0,0,0,0,0,0,0,0,133,0
+"40","134","Anders turns and looks at him.",0,0,0,0,0,0,0,0,0,0,134,0
+"41","135","He wants to hear Coyle's cousin repeat what he's just said, but he knows better than to ask.",0,0,0,0,0,0,0,0,0,0,135,0
+"42","136","The others will think he's being a jerk, ragging the kid for his grammar.",1,0,0,0,0,0,1,1,0,0,136,3
+"43","137","But that isn't it, not at all - it's that Anders is strangely roused, elated, by those final two words, their pure unexpectedness and their music.",1,0,0,0,2,1,0,0,1,2,137,7
+"44","138","He takes the field in a trance, repeating them to himself.",0,0,0,0,0,0,0,0,1,0,138,1
+"45","139","The bullet is already in the brain; it won't be outrun forever, or charmed to a halt.",0,0,0,0,1,0,0,0,1,1,139,3
+"47","140","In the end it will do its work and leave the troubled skull behind, dragging its comet's tail of memory and hope and talent and love into the marble hall of commerce.",0,1,0,0,2,1,2,2,1,3,140,12
+"48","141","That can't be helped.",0,0,0,0,0,0,0,0,0,0,141,0
+"49","142","But for now Anders can still make time.",0,1,0,0,0,0,0,0,0,0,142,1
+"50","143","Time for the shadows to lengthen on the grass, time for the tethered dog to bark at the flying ball, time for the boy in right field to smack his sweat-blackened mitt and softly chant, They is, they is, they is.",3,2,1,2,1,0,1,0,3,2,143,15
+"51","144","5  Say Yes        by Tobias Wolff They were doing the dishes, his wife washing while he dried.",0,0,0,0,0,0,0,0,0,0,144,0
+"52","145","He'd washed the night before.",0,0,0,0,0,0,0,0,0,0,145,0
+"53","146","Unlike most men he knew, he really pitched in on the housework.",0,0,0,0,0,0,0,0,0,0,146,0
+"54","147","A few months earlier he'd overheard a friend of his wife's congratulate her on having such a considerate husband, and he thought, I try.",0,1,0,0,1,0,0,2,0,2,147,6
+"55","148","Helping out with the dishes was a way he had of showing how considerate he was.",0,0,0,0,0,0,0,1,0,1,148,2
+"56","149","They talked about different things and somehow got on the subject of whether white people should marry black people.",0,2,0,1,2,1,1,2,2,2,149,13
+"58","150","He said that all things considered, he thought it was a bad idea.",1,1,1,1,0,1,0,0,1,0,150,6
+"59","151","""Why?""",0,0,0,0,0,0,0,0,0,0,151,0
+"60","152","she asked.",0,0,0,0,0,0,0,0,0,0,152,0
+"61","153","Sometimes his wife got this look where she pinched her brows together and bit her lower lip and stared down at something.",0,0,0,0,0,1,0,0,1,0,153,2
+"62","154","When he saw her like this he knew he should keep his mouth shut, but he never did.",0,0,0,0,0,0,1,0,0,0,154,1
+"63","155","Actually it made him talk more.",0,0,0,0,0,0,0,0,0,1,155,1
+"64","156","She had that look now.",0,0,0,0,0,0,0,0,0,0,156,0
+"65","157","""Why?""",0,0,0,0,0,0,0,0,0,0,157,0
+"66","158","she asked again, and stood there with her hand inside a bowl, not washing it but just holding it above the water.",0,0,0,0,0,0,0,0,0,0,158,0
+"67","159","""Listen,"" he said, ""I went to school with blacks, I’ve worked with blacks, and we've always gotten along just fine.",0,0,0,0,0,0,0,1,0,0,159,1
+"69","160","I don't need you coming along now and implying that I'm a racist.""",0,1,0,0,0,0,0,0,0,0,160,1
+"70","161","""I didn't imply anything,"" she said, and began washing the bowl again, turning it around in her hand as though she were shaping it.",0,0,0,0,0,0,0,0,0,0,161,0
+"71","162","""I just don't see what's wrong with a white person marrying a black person, that's all.""",0,1,0,0,1,1,0,1,2,1,162,7
+"72","163","""They don't come from the same culture as we do.",0,0,0,0,0,0,0,0,0,1,163,1
+"73","164","Listen to them sometime --they even have their own language.",0,0,0,0,0,0,0,0,0,0,164,0
+"74","165","That's okay with me, I like hearing them talk""--he did; for some reason it always lifted his mood--""but it's different.",0,0,0,1,0,0,0,0,1,2,165,4
+"75","166","A person from their culture and a person from our culture could never really know each other.""",0,0,0,0,0,0,0,0,0,1,166,1
+"76","167","6  ""Like you know me?""",0,0,0,0,0,0,0,0,0,0,167,0
+"77","168","his wife asked.",0,0,0,0,0,0,0,0,0,0,168,0
+"78","169","""Yes.",0,0,0,0,0,0,0,0,0,0,169,0
+"80","170","Like I know you.""",0,0,0,0,0,0,0,0,0,0,170,0
+"81","171","""But if they love each other,"" she said.",0,0,0,0,1,0,0,0,0,1,171,2
+"82","172","She was washing faster now, not looking at him.",0,0,0,0,0,0,0,0,0,0,172,0
+"83","173","Oh boy, he thought.",0,1,1,0,0,0,0,0,1,0,173,3
+"84","174","He said, ""Don't take my word for it.",0,0,0,0,0,0,0,1,0,1,174,2
+"85","175","Look at the statistics.",0,0,0,0,0,0,0,0,0,0,175,0
+"86","176","Most of those marriages break up.""",0,0,0,0,0,0,1,0,0,0,176,1
+"87","177","""Statistics.""",0,0,0,0,0,0,0,0,0,0,177,0
+"88","178","She was piling dishes on the drainboard at a terrific rate, just swiping at them with the cloth.",0,0,0,0,0,1,0,0,0,0,178,1
+"89","179","Many of them were greasy, and there were flecks of food between the tines of the forks.",0,0,1,0,1,0,0,1,0,1,179,4
+"91","180","""All right,"" she said, ""what about foreigners?",0,0,0,0,0,0,0,0,0,0,180,0
+"92","181","I suppose you think the same thing about two foreigners getting married.""",0,0,0,0,0,0,0,0,0,0,181,0
+"93","182","""Yes,"" he said, ""as a matter of fact I do.",0,0,0,0,0,0,0,1,0,0,182,1
+"94","183","How can you understand someone who comes from a completely different background?""",0,0,0,0,0,0,0,0,0,1,183,1
+"95","184","""Different,"" said his wife.",0,0,0,0,0,0,0,0,0,0,184,0
+"96","185","""Not the same, like us.""",0,0,0,0,0,0,0,0,0,0,185,0
+"97","186","""Yes, different,"" he snapped, angry with her for resorting to this trick of repeating his words so that they sounded crass, or hypocritical.",2,0,2,0,0,0,1,0,4,0,186,9
+"98","187","""These are dirty,"" he said, and dumped all the silverware back into the sink .",0,0,1,0,0,0,0,0,1,0,187,2
+"99","188","The water had gone flat and gray.",0,0,1,0,0,1,0,0,0,0,188,2
+"100","189","She stared down at it, her lips pressed tight together, then plunged her hands under the surface.",0,0,0,0,0,0,0,0,0,0,189,0
+"102","190","""Oh!""",0,0,0,0,0,0,0,0,0,0,190,0
+"103","191","she cried, and jumped back.",0,0,0,0,0,0,0,0,0,0,191,0
+"104","192","She took her right hand by the wrist and held it up.",0,0,0,0,0,0,0,0,0,0,192,0
+"105","193","Her thumb was bleeding.",0,0,1,1,0,1,0,0,1,0,193,4
+"106","194","""Ann, don't move,"" he said.",0,0,0,0,0,0,0,0,0,0,194,0
+"107","195","""Stay right there.""",0,0,0,0,0,0,0,0,0,0,195,0
+"108","196","He ran upstairs to the bathroom and rummaged in the medicine chest for alcohol, cotton, and a Band-Aid.",0,0,0,0,0,0,0,0,0,1,196,1
+"109","197","When he came back down she was leaning against the refrigerator with her eyes closed, still holding her hand.",0,0,0,0,0,0,0,1,0,0,197,1
+"110","198","He took the hand and dabbed at her thumb with the cotton.",0,0,0,0,0,0,0,0,0,0,198,0
+"111","199","The bleeding had stopped.",0,0,1,1,0,1,0,0,1,0,199,4
+"114","200","He squeezed it to see how deep the wound was and a single drop of blood welled up, trembling and bright, and fell to the floor.",1,0,0,2,0,2,0,0,3,0,200,8
+"115","201","Over the thumb she stared at him accusingly.",0,0,0,0,0,0,0,0,0,0,201,0
+"116","202","""It's shallow,"" he said.",0,0,0,0,0,0,0,0,0,0,202,0
+"117","203","""Tomorrow you won't even know it's there.""",0,1,0,0,0,0,0,0,0,0,203,1
+"118","204","He hoped that she appreciated how quickly he had come to her aid.",0,0,0,0,0,0,0,0,0,1,204,1
+"119","205","He'd acted out of concern for her, with no thought of getting                                                                                7  anything in return, but now the thought occurred to him that it would be a nice gesture on her part not to start up that conversation again, as he was tired of it.",0,2,0,0,0,0,0,0,1,0,205,3
+"120","206","""I'll finish up here,"" he said.",0,0,0,0,0,0,0,0,0,0,206,0
+"121","207","""You go and relax.""",0,0,0,0,0,0,0,0,0,0,207,0
+"122","208","""That's okay,"" she said.",0,0,0,0,0,0,0,0,0,0,208,0
+"123","209","""I'll dry.""",0,0,0,0,0,0,0,0,0,0,209,0
+"125","210","He began to wash the silverware again, giving a lot of attention to the forks.",0,0,0,0,0,0,0,0,0,2,210,2
+"126","211","""So,"" she said, ""you wouldn't have married me if I'd been black.""",0,0,0,0,0,1,0,0,1,0,211,2
+"127","212","""For Christ's sake, Ann!""",0,0,0,0,0,0,0,0,0,0,212,0
+"128","213","""Well, that's what you said, didn't you?""",0,0,0,0,0,0,0,0,0,0,213,0
+"129","214","""No, I did not.",0,0,0,0,0,0,0,0,0,0,214,0
+"130","215","The whole question is ridiculous.",1,0,1,0,0,0,0,0,1,1,215,4
+"131","216","If you had been black we probably wouldn't even have met.",0,0,0,0,0,1,0,0,1,0,216,2
+"132","217","You would have had your friends and I would have had mine.",0,0,0,0,0,0,0,0,0,0,217,0
+"133","218","The only black girl I ever really knew was my partner in the debating club, and I was already going out with you by then.""",0,0,0,0,0,1,0,0,1,1,218,3
+"134","219","""But if we had met, and I'd been black?""",0,0,0,0,0,1,0,0,1,0,219,2
+"136","220","""Then you probably would have been going out with a black guy.""",0,0,0,0,0,1,0,0,1,0,220,2
+"137","221","He picked up the rinsing nozzle and sprayed the silverware.",0,0,0,0,0,0,0,0,0,0,221,0
+"138","222","The water was so hot that the metal darkened to pale blue, then turned silver again.",1,0,0,1,0,2,0,0,1,0,222,5
+"139","223","""Let's say I wasn't,"" she said.",0,0,0,0,0,0,0,0,0,0,223,0
+"140","224","""Let's say I am black and unattached and we meet and fall in love.""",0,0,0,0,1,2,0,0,3,1,224,7
+"141","225","He glanced over at her.",0,0,0,0,0,0,0,0,0,0,225,0
+"142","226","She was watching him and her eyes were bright.",0,0,0,0,0,0,0,0,0,0,226,0
+"143","227","""Look,"" he said, taking a reasonable tone, ""this is stupid.",0,0,0,0,0,0,0,0,1,0,227,1
+"144","228","If you were black you wouldn't be you.""",0,0,0,0,0,1,0,0,1,0,228,2
+"145","229","As he said this he realized it was absolutely true.",0,0,0,0,0,0,0,0,0,0,229,0
+"147","230","There was no possible way of arguing with the fact that she would not be herself if she were black.",0,0,0,0,0,1,0,1,1,0,230,3
+"148","231","So he said it again: ""If you were black you wouldn't be you.""",0,0,0,0,0,1,0,0,1,0,231,2
+"149","232","""I know,"" she said, ""but let's just say.""",0,0,0,0,0,0,0,0,0,0,232,0
+"150","233","He took a deep breath.",0,0,0,0,0,0,0,0,0,0,233,0
+"151","234","He had won the argument but he still felt cornered.",1,0,0,0,0,0,0,0,1,0,234,2
+"152","235","8  ""Say what?""",0,0,0,0,0,0,0,0,0,0,235,0
+"153","236","he asked.",0,0,0,0,0,0,0,0,0,0,236,0
+"154","237","""That I'm black, but still me, and we fall in love.",0,0,0,0,1,2,0,0,2,1,237,6
+"155","238","Will you marry me?""",0,1,0,1,1,0,1,1,0,1,238,6
+"156","239","He thought about it.",0,1,0,0,0,0,0,0,0,0,239,1
+"158","240","""Well?""",0,0,0,0,0,0,0,0,0,0,240,0
+"159","241","she said, and stepped close to him.",0,0,0,0,0,0,0,0,0,0,241,0
+"160","242","Her eyes were even brighter.",0,0,0,0,0,0,0,0,0,0,242,0
+"161","243","""Will you marry me?""",0,1,0,1,1,0,1,1,0,1,243,6
+"162","244","""I'm thinking,"" he said.",0,0,0,0,0,0,0,0,0,0,244,0
+"163","245","""You won't, I can tell.",0,0,0,0,0,0,0,0,0,0,245,0
+"164","246","You're going to say no.""",0,0,0,0,0,0,0,0,0,0,246,0
+"165","247","""Since you put it that way—"" ""No more considering, Yes or no.""",0,0,0,0,0,0,0,0,0,0,247,0
+"166","248","""Jesus, Ann.",0,0,0,0,0,0,0,0,0,0,248,0
+"167","249","All right.",0,0,0,0,0,0,0,0,0,0,249,0
+"169","250","No.""",0,0,0,0,0,0,0,0,0,0,250,0
+"170","251","She said, ""Thank you,"" and walked from the kitchen into the living room.",0,0,0,0,0,0,0,0,0,0,251,0
+"171","252","A moment later he heard her turning the pages of a magazine.",0,0,0,0,0,0,0,0,0,0,252,0
+"172","253","He knew that she was too angry to be actually reading it, but she didn't snap through the pages the way he would have done.",1,0,1,0,0,0,0,0,1,1,253,4
+"173","254","She turned them slowly, as if she were studying every word.",0,0,0,0,0,0,0,1,0,1,254,2
+"174","255","She was demonstrating her indifference to him, and it had the effect he knew she wanted it to have.",1,0,1,1,0,1,0,0,1,0,255,5
+"175","256","It hurt him.",1,0,0,1,0,1,0,0,1,0,256,4
+"176","257","He had no choice but to demonstrate his indifference to her.",1,0,1,1,0,1,0,0,1,1,257,6
+"177","258","Quietly, thoroughly, he washed the rest of the dishes.",0,0,0,0,0,0,0,0,0,1,258,1
+"178","259","Then he dried them and put them away.",0,0,0,0,0,0,0,0,0,0,259,0
+"180","260","He wiped the counters and the stove and scoured the linoleum where the drop of blood had fallen.",0,0,0,0,0,0,0,0,0,0,260,0
+"181","261","While he was at it, he decided, he might as well mop the whole floor.",0,0,0,0,0,0,0,0,0,0,261,0
+"182","262","When he was done the kitchen looked new, the way it looked when they were first shown the house, before they had ever lived here.",0,0,0,0,0,0,0,0,0,0,262,0
+"183","263","He picked up the garbage pail and went outside.",0,0,1,0,0,0,0,0,1,0,263,2
+"184","264","The night was clear and he could see a few stars to the west, where the lights of the town didn't blur them out.",0,0,0,0,0,0,0,0,1,0,264,1
+"185","265","On El Camino the traffic was steady and light, peaceful as a river.",0,1,0,0,1,0,2,2,0,1,265,7
+"186","266","He felt ashamed that he had let his wife get him into a fight.",1,0,1,1,0,1,0,0,2,0,266,6
+"187","267","In another thirty years or so they would both be dead.",0,0,0,0,0,0,0,0,0,0,267,0
+"188","268","What would all that stuff matter then?",0,0,0,0,0,0,0,0,0,0,268,0
+"189","269","He thought of the years they had spent together, and how close they were,                                                                                9  and how well they knew each other, and his throat tightened so that he could hardly breathe.",0,1,0,0,0,0,0,0,1,0,269,2
+"191","270","His face and neck began to tingle.",0,0,0,0,0,0,0,0,0,0,270,0
+"192","271","Warmth flooded his chest.",0,0,0,0,0,0,0,0,0,0,271,0
+"193","272","He stood there for a while, enjoying these sensations, then picked up the pail and went out the back gate.",0,1,0,0,1,0,0,2,0,1,272,5
+"194","273","The two mutts from down the street had pulled over the garbage can again.",0,0,1,0,0,0,0,0,1,0,273,2
+"195","274","One of them was rolling around on his back and the other had something in her mouth.",0,0,0,0,0,0,1,0,0,0,274,1
+"196","275","Growling, she tossed it into the air, leaped up and caught it, growled again and whipped her head from side to side.",1,0,1,1,0,0,0,0,1,0,275,4
+"197","276","When they saw him coming they trotted away with short, mincing steps.",0,1,0,0,0,0,0,0,0,0,276,1
+"198","277","Normally he would heave rocks at them, but this time he let them go.",0,1,0,0,0,0,0,0,0,0,277,1
+"199","278","The house was dark when he came back inside.",0,0,0,0,0,1,0,0,0,0,278,1
+"200","279","She was in the bathroom.",0,0,0,0,0,0,0,0,0,0,279,0
+"202","280","He stood outside the door and called her name.",0,0,0,0,0,0,0,0,0,0,280,0
+"203","281","He heard bottles clinking, but she didn't answer him.",0,0,0,0,0,0,0,0,0,0,281,0
+"204","282","""Ann, I'm really sorry,"" he said.",0,0,0,0,0,0,0,0,0,0,282,0
+"205","283","""I'll make it up to you, I promise.""",0,0,0,0,1,0,0,1,0,1,283,3
+"206","284","""How?""",0,0,0,0,0,0,0,0,0,0,284,0
+"207","285","she asked.",0,0,0,0,0,0,0,0,0,0,285,0
+"208","286","He wasn't expecting this.",0,1,0,0,0,0,0,0,0,0,286,1
+"209","287","But from a sound in her voice, a level and definite note that was strange to him, he knew that he had to come up with the right answer.",0,0,0,0,0,0,0,1,0,1,287,2
+"210","288","He leaned against the door.",0,0,0,0,0,0,0,0,0,0,288,0
+"211","289","""I'll marry you,"" he whispered.",0,1,0,1,1,0,1,1,0,1,289,6
+"213","290","""We'll see,"" she said.",0,0,0,0,0,0,0,0,0,0,290,0
+"214","291","""Go on to bed.",0,0,0,0,0,0,0,0,0,0,291,0
+"215","292","I'll be out in a minute.""",0,0,0,0,0,0,0,0,0,0,292,0
+"216","293","He undressed and got under the covers.",0,0,0,0,0,0,0,0,0,0,293,0
+"217","294","Finally he heard the bathroom door open and close.",0,1,1,0,1,0,1,1,0,1,294,6
+"218","295","""Turn off the light,"" she said from the hallway.",0,0,0,0,0,0,0,0,0,0,295,0
+"219","296","""What?""",0,0,0,0,0,0,0,0,0,0,296,0
+"220","297","""Turn off the light.""",0,0,0,0,0,0,0,0,0,0,297,0
+"221","298","He reached over and pulled the chain on the bedside lamp.",0,0,0,0,0,0,0,0,0,0,298,0
+"222","299","The room went dark.",0,0,0,0,0,1,0,0,0,0,299,1
+"225","300","""All right,"" he said.",0,0,0,0,0,0,0,0,0,0,300,0
+"226","301","He lay there, but nothing happened.",0,0,0,0,0,0,0,0,0,0,301,0
+"227","302","""All right,"" he said again.",0,0,0,0,0,0,0,0,0,0,302,0
+"228","303","Then he heard a movement across the room.",0,0,0,0,0,0,0,0,0,0,303,0
+"229","304","He sat up, but he couldn't see a thing.",0,0,0,0,0,0,0,0,0,0,304,0
+"230","305","The room was silent.",0,0,0,0,0,0,0,0,0,0,305,0
+"231","306","His heart pounded the way it had on their first night together, the way it still did when he woke at a noise in                                                                                10  the darkness and waited to hear it again--the sound of someone moving through the house, a stranger.",1,0,0,2,0,1,0,0,3,0,306,7
+"232","307","Powder        by Tobias Wolff Just before Christmas my father took me skiing at Mount Baker.",0,0,0,0,0,0,0,1,0,0,307,1
+"233","308","He’d had to fight for the privilege of my company, because my mother was still angry with him for sneaking me into a nightclub during his last visit, to see Thelonious Monk.",2,2,1,2,1,1,0,3,4,3,308,19
+"234","309","He wouldn’t give up.",0,0,0,0,0,0,0,0,0,0,309,0
+"236","310","He promised, hand on heart, to take good care of me and have me home for dinner on Christmas Eve, and she relented.",0,1,0,0,1,0,1,1,0,2,310,6
+"237","311","But as we were checking out of the lodge that morning it began to snow, and in this snow he observed some rare quality that made it necessary for us to get in one last run.",0,0,0,0,0,0,0,0,0,0,311,0
+"238","312","We got in several last runs.",0,0,0,0,0,0,0,0,0,0,312,0
+"239","313","He was indifferent to my fretting.",0,0,0,0,0,0,0,0,0,0,313,0
+"240","314","Snow whirled around us in bitter, blinding squalls, hissing like sand, and still we skied.",0,0,0,0,0,0,0,0,1,0,314,1
+"241","315","As the lift bore us to the peak yet again, my father looked at his watch and said, “Criminy.",0,1,0,1,0,0,0,1,1,0,315,4
+"242","316","This’ll have to be a fast one.”",0,0,0,0,0,0,0,0,0,0,316,0
+"243","317","By now I couldn’t see the trail.",0,0,0,0,0,0,0,0,0,0,317,0
+"244","318","There was no point in trying.",0,0,0,0,0,0,0,0,0,0,318,0
+"245","319","I stuck to him like white on rice and did what he did and somehow made it to the bottom without sailing off a cliff.",0,1,0,1,1,1,0,1,1,1,319,7
+"247","320","We returned our skis and my father put chains on the Austin-Healey while I swayed from foot to foot, clapping my mittens and wishing I was home.",0,0,0,0,0,0,0,1,0,0,320,1
+"248","321","I could see everything.",0,0,0,0,0,0,0,0,0,0,321,0
+"249","322","The green tablecloth, the plates with the holly pattern, the red candles waiting to be lit.",0,0,0,0,1,0,0,1,0,1,322,3
+"250","323","We passed a diner on our way out.",0,0,0,0,0,0,0,0,0,0,323,0
+"251","324","“You want some soup?”",0,0,0,0,0,0,0,0,0,1,324,1
+"252","325","my father asked.",0,0,0,0,0,0,0,1,0,0,325,1
+"253","326","I shook my head.",0,0,0,0,0,0,0,0,0,0,326,0
+"254","327","“Buck up,” he said.",0,0,0,1,0,0,1,0,1,1,327,4
+"255","328","“I’ll get you there.",0,0,0,0,0,0,0,0,0,0,328,0
+"256","329","Right, doctor?”",0,0,0,0,0,0,0,1,0,1,329,2
+"258","330","I was supposed to say, “Right, doctor,” but I didn’t say anything.",0,0,0,0,0,0,0,1,0,1,330,2
+"259","331","11  A state trooper waved us down outside the resort.",0,0,0,0,0,0,0,0,0,0,331,0
+"260","332","A pair of sawhorses were blocking the road.",0,0,0,0,0,0,0,0,0,0,332,0
+"261","333","The trooper came up to our car and bent down to my father’s window.",0,0,0,0,0,0,0,1,0,0,333,1
+"262","334","His face was bleached by the cold.",0,0,0,0,0,0,0,0,1,0,334,1
+"263","335","Snowflakes clung to his eyebrows and to the fur trim of his jacket and cap.",0,1,0,0,0,0,0,1,0,0,335,2
+"264","336","“Don’t tell me,” my father said.",0,0,0,0,0,0,0,2,0,1,336,3
+"265","337","The trooper told him.",0,0,0,0,0,0,0,0,0,0,337,0
+"266","338","The road was closed.",0,0,0,0,0,0,0,0,0,0,338,0
+"267","339","It might get cleared, it might not.",0,0,0,0,0,0,0,0,0,0,339,0
+"269","340","Storm took everyone by surprise.",1,0,0,1,1,0,1,0,1,1,340,6
+"270","341","So much, so fast.",0,0,0,0,0,0,0,0,0,0,341,0
+"271","342","Hard to get people moving.",0,0,0,0,0,0,0,0,0,0,342,0
+"272","343","Christmas Eve.",0,0,0,0,0,0,0,0,0,0,343,0
+"273","344","What can you do.",0,0,0,0,0,0,0,0,0,0,344,0
+"274","345","My father said, “Look.",0,0,0,0,0,0,0,1,0,0,345,1
+"275","346","We’re talking about five, six inches.",0,0,0,0,0,0,0,0,0,0,346,0
+"276","347","I’ve taken this car through worse than that.”",0,0,0,1,0,1,0,0,1,0,347,3
+"277","348","The trooper straightened up.",0,0,0,0,0,0,0,0,0,0,348,0
+"278","349","His face was out of sight but I could hear him.",0,0,0,0,0,0,0,0,0,0,349,0
+"280","350","“The road is closed.”",0,0,0,0,0,0,0,0,0,0,350,0
+"281","351","My father sat with both hands on the wheel, rubbing the wood with his thumbs.",0,0,0,0,0,0,0,1,0,0,351,1
+"282","352","He looked at the barricade for a long time.",0,2,0,1,0,0,0,0,1,0,352,4
+"283","353","He seemed to be trying to master the idea of it.",0,0,0,0,0,0,0,0,0,1,353,1
+"284","354","Then he thanked the trooper, and with a weird, old- maidy show of caution turned the car around.",1,1,1,1,0,0,0,1,2,0,354,7
+"285","355","“Your mother will never forgive me for this,” he said.",0,1,0,0,1,1,0,1,1,2,355,7
+"286","356","“We should have left before,” I said.",0,0,0,0,0,0,0,0,0,0,356,0
+"287","357","“Doctor.”",0,0,0,0,0,0,0,1,0,1,357,2
+"288","358","He didn’t speak to me again until we were in a booth at the diner, waiting for our burgers.",0,0,0,0,0,0,0,0,0,0,358,0
+"289","359","“She won’t forgive me,” he said.",0,0,0,0,0,0,0,0,0,1,359,1
+"291","360","“Do you understand?",0,0,0,0,0,0,0,0,0,0,360,0
+"292","361","Never.”",0,0,0,0,0,0,0,0,0,0,361,0
+"293","362","“I guess,” I said, but no guesswork was required; she wouldn’t forgive him.",0,0,0,0,0,0,1,0,0,1,362,2
+"294","363","“I can’t let that happen.”",0,1,0,0,0,0,0,0,0,0,363,1
+"295","364","He bent toward me.",0,0,0,0,0,0,0,0,0,0,364,0
+"296","365","“I’ll tell you what I want.",0,0,0,0,0,0,0,0,0,0,365,0
+"297","366","I want us all to be together again.",0,0,0,0,0,0,0,0,0,0,366,0
+"298","367","Is that what you want?”",0,0,0,0,0,0,0,0,0,0,367,0
+"299","368","“Yes, sir.”",0,0,0,0,0,0,0,1,0,1,368,2
+"300","369","He bumped my chin with his knuckles.",0,0,0,0,0,0,0,0,0,0,369,0
+"302","370","“That’s all I needed to hear.”",0,0,0,0,0,0,0,0,0,0,370,0
+"303","371","When we finished eating he went to the pay phone in the back of the diner, then joined me in the booth again.",0,1,0,0,1,0,0,1,0,2,371,5
+"304","372","I figured he’d called my mother, but he didn’t give a report.",0,1,0,0,1,1,0,1,1,1,372,6
+"305","373","He sipped at his coffee and stared out the window at the                                                                             12  empty road.",0,0,0,0,0,0,0,0,0,0,373,0
+"306","374","“Come on, come on,” he said, though not to me.",0,0,0,0,0,0,0,0,0,0,374,0
+"307","375","A little while later he said it again.",0,0,0,0,0,0,0,0,0,0,375,0
+"308","376","When the trooper’s car went past, lights flashing, he got up and dropped some money on the check.",1,1,0,0,1,0,1,1,0,1,376,6
+"309","377","“Okay.",0,0,0,0,0,0,0,0,0,0,377,0
+"310","378","Vamanos.”",0,0,0,0,0,0,0,0,0,0,378,0
+"311","379","The wind had died.",0,0,0,0,0,0,0,0,0,0,379,0
+"313","380","The snow was falling straight down, less of it now and lighter.",0,0,0,0,0,1,0,0,1,0,380,2
+"314","381","We drove away from the resort, right up to the barricade.",0,0,0,1,0,0,0,0,1,0,381,2
+"315","382","“Move it,” my father told me.",0,0,0,0,0,0,0,1,0,0,382,1
+"316","383","When I looked at him he said, “What are you waiting for?”",0,0,0,0,0,0,0,0,0,0,383,0
+"317","384","I got out and dragged one of the sawhorses aside, then put it back after he drove through.",0,0,0,0,0,0,0,0,0,0,384,0
+"318","385","He pushed the door open for me.",0,0,0,0,0,0,0,0,0,0,385,0
+"319","386","“Now you’re an accomplice,” he said.",0,0,0,0,0,0,0,0,0,0,386,0
+"320","387","“We go down together.”",0,0,0,0,0,0,0,0,0,0,387,0
+"321","388","He put the car into gear and gave me a look.",0,0,0,0,0,0,0,0,0,1,388,1
+"322","389","“Joke, son.”",0,0,0,0,0,0,0,0,1,0,389,1
+"324","390","Down the first long stretch I watched the road behind us, to see if the trooper was on our tail.",0,1,0,0,0,0,0,0,0,0,390,1
+"325","391","The barricade vanished.",0,0,0,2,0,1,1,0,2,0,391,6
+"326","392","Then there was nothing but snow: snow on the road, snow kicking up from the chains, snow on the trees, snow in the sky; and our trail in the snow.",1,0,0,0,0,0,0,0,0,1,392,2
+"327","393","Then I faced forward and had a shock.",1,0,0,1,0,0,1,0,1,1,393,5
+"328","394","The lay of the road behind us had been marked by our own tracks, but there were no tracks ahead of us.",0,0,0,0,0,0,0,0,0,2,394,2
+"329","395","My father was breaking virgin snow between a line of tall trees.",0,0,0,0,0,0,0,2,0,1,395,3
+"330","396","He was humming “Stars Fell on Alabama.”",0,0,0,0,0,1,0,0,1,0,396,2
+"331","397","I felt snow brush along the floorboards under my feet.",0,0,0,0,0,0,0,0,0,0,397,0
+"332","398","To keep my hands from shaking I clamped them between my knees.",0,0,0,1,0,0,0,0,1,0,398,2
+"333","399","My father grunted in a thoughtful way and said, “Don’t ever try this yourself.”",0,0,0,0,0,0,0,3,0,2,399,5
+"336","400","“I won’t.”",0,0,0,0,0,0,0,0,0,0,400,0
+"337","401","“That’s what you say now, but someday you’ll get your license and then you’ll think you can do anything.",0,0,0,0,0,0,0,0,0,0,401,0
+"338","402","Only you won’t be able to do this.",0,0,0,0,0,0,0,0,0,0,402,0
+"339","403","You need, I don’t know—a certain instinct.”",0,0,0,0,0,0,0,1,0,1,403,2
+"340","404","“Maybe I have it.”",0,0,0,0,0,0,0,0,0,0,404,0
+"341","405","“You don’t.",0,0,0,0,0,0,0,1,0,1,405,2
+"342","406","You have your strong points, but not this.",0,0,0,0,0,0,0,0,0,0,406,0
+"343","407","I only mention it because I don’t want you to get the idea this is something just anybody can do.",0,0,0,0,0,0,0,1,0,1,407,2
+"344","408","I’m a great driver.",0,0,0,0,0,0,0,0,0,0,408,0
+"345","409","That’s not a virtue, okay?",0,0,0,0,0,0,0,1,0,1,409,2
+"347","410","It’s just a fact, and one you should be aware of.",0,0,0,0,0,0,0,1,0,0,410,1
+"348","411","Of course you have to give the old heap some credit, too.",0,0,0,0,0,0,0,1,0,1,411,2
+"349","412","There aren’t many cars I’d try this with.",0,0,0,0,0,0,0,0,0,0,412,0
+"350","413","Listen!”",0,0,0,0,0,0,0,0,0,0,413,0
+"351","414","13  I did listen.",0,0,0,0,0,0,0,0,0,0,414,0
+"352","415","I heard the slap of the chains, the stiff, jerky rasp of the wipers, the purr of the engine.",1,0,0,0,1,0,1,1,2,1,415,7
+"353","416","It really did purr.",0,0,0,0,1,0,0,1,0,1,416,3
+"354","417","The old heap was almost new.",0,0,0,0,0,0,0,0,0,0,417,0
+"355","418","My father couldn’t afford it, and kept promising to sell it, but here it was.",0,0,0,0,0,0,0,1,0,2,418,3
+"356","419","I said, “Where do you think that policeman went to?”",0,0,0,1,0,0,0,1,0,1,419,3
+"358","420","“Are you warm enough?”",0,0,0,0,0,0,0,0,0,0,420,0
+"359","421","He reached over and cranked up the blower.",0,0,0,0,0,0,0,0,1,0,421,1
+"360","422","Then he turned off the wipers.",0,0,0,0,0,0,0,0,0,0,422,0
+"361","423","We didn’t need them.",0,0,0,0,0,0,0,0,0,0,423,0
+"362","424","The clouds had brightened.",0,0,0,0,0,0,0,0,0,0,424,0
+"363","425","A few sparse, feathery flakes drifted into our slipstream and were swept away.",0,0,0,0,0,0,0,0,0,0,425,0
+"364","426","We left the trees and entered a broad field of snow that ran level for a while and then tilted sharply downward.",0,0,0,0,0,0,0,1,0,1,426,2
+"365","427","Orange stakes had been planted at intervals in two parallel lines and my father steered a course between them, though they were far enough apart to leave considerable doubt in my mind as to exactly where the road lay.",0,0,0,2,0,2,1,2,2,1,427,10
+"366","428","He was humming again, doing little scat riffs around the melody.",0,0,0,0,0,0,0,0,0,0,428,0
+"367","429","“Okay then.",0,0,0,0,0,0,0,0,0,0,429,0
+"369","430","What are my strong points?”",0,0,0,0,0,0,0,0,0,0,430,0
+"370","431","“Don’t get me started,” he said.",0,0,0,0,0,0,0,1,0,1,431,2
+"371","432","“It’d take all day.”",0,0,0,0,0,0,0,0,0,0,432,0
+"372","433","“Oh, right.",0,0,0,0,0,0,0,0,0,0,433,0
+"373","434","Name one.”",0,0,0,0,0,0,0,0,0,0,434,0
+"374","435","“Easy.",0,0,0,0,0,0,0,0,0,0,435,0
+"375","436","You always think ahead.”",0,0,0,0,0,0,0,0,0,1,436,1
+"376","437","True, I always thought ahead.",0,1,0,0,0,0,0,0,0,1,437,2
+"377","438","I was a boy who kept his clothes on numbered hangers to insure proper rotation.",0,0,1,0,0,0,0,1,1,2,438,5
+"378","439","I bothered my teachers for homework assignments far ahead of their due dates so I could draw up schedules.",0,0,0,1,0,0,0,0,0,1,439,2
+"380","440","I thought ahead, and that was why I knew that there would be other troopers waiting for us at the end of our ride, if we even got there.",0,1,0,0,0,0,0,0,0,1,440,2
+"381","441","What I did not know was that my father would wheedle and plead his way past them—he didn’t sing “O Tannenbaum,” but just about—and get me home for dinner, buying a little more time before my mother decided to make the split final.",0,3,0,0,2,2,0,3,2,3,441,15
+"382","442","I knew we’d get caught; I was resigned to it.",0,0,0,0,0,1,0,0,1,0,442,2
+"383","443","And maybe for this reason I stopped moping and began to enjoy myself.Why not?",0,1,0,0,1,0,0,1,0,2,443,5
+"384","444","This was one for the books.",0,0,0,0,0,0,0,0,0,0,444,0
+"385","445","Like being in a speedboat, only better.",0,0,0,0,0,0,0,0,0,0,445,0
+"386","446","You can’t go downhill in a boat.",0,0,0,0,0,0,0,0,0,0,446,0
+"387","447","And it was all ours.",0,0,0,0,0,0,0,0,0,0,447,0
+"388","448","And it kept coming, the laden trees, the unbroken surface of snow, the sudden white vistas.",0,2,0,0,1,0,1,2,1,2,448,9
+"389","449","Here and there I saw hints of the road, ditches, fences, stakes, but not so many that I could have found my way.",0,0,0,0,1,0,0,1,0,1,449,3
+"391","450","But then I didn’t have to.",0,0,0,0,0,0,0,0,0,0,450,0
+"392","451","My father was driving.",0,0,0,0,0,0,0,1,0,0,451,1
+"393","452","My father in his forty- eighth year, rumpled, kind, bankrupt of honor, flushed with certainty.",0,0,0,1,1,1,0,3,1,3,452,10
+"394","453","He                                                                                  14  was a great driver.",0,0,0,0,0,0,0,0,0,0,453,0
+"395","454","All persuasion, no coercion.",1,0,1,1,0,1,0,0,1,0,454,5
+"396","455","Such subtlety at the wheel, such tactful pedalwork.",0,0,0,0,0,0,0,0,0,0,455,0
+"397","456","I actually trusted him.",0,0,0,0,0,0,0,0,0,0,456,0
+"398","457","And the best was yet to come—switchbacks and hairpins impossible to describe.",0,0,0,0,0,1,0,0,1,0,457,2
+"399","458","Except maybe to say this: if you haven’t driven fresh powder, you haven’t driven.",0,0,0,0,0,0,0,1,0,1,458,2
+"400","459","15",0,0,0,0,0,0,0,0,0,0,459,0
