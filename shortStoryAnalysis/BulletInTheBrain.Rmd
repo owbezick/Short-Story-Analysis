@@ -1,0 +1,49 @@
+---
+title: "Bullet in the Brain"
+author: "Authors: Owen Bezick, Oona Roberts"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***
+This paper aims to provide two different techniques of sentiment analysis for Tobias Wolff's short story ["Bullet in the Brain"](https://www.newyorker.com/magazine/1995/09/25/bullet-in-the-brain) and compare and contrast them.
+
+One technique will be the old fashioned, by hand way and the other will be a data-driven approach using natural language processing.  
+
+Each approach will choose the sentences with the highest level. The "by hand" appraoch will follow with an explanation, while the NLP approach will follow with the sentence's corresponding sentiment scores.
+
+### Sentences with the Most Sentiment
+#### By Hand
+1. “He breathed out a piercing, ammoniac smell that shocked Anders more than anything that had happened, and he was beginning to develop a sense of unease when the man prodded him again with the pistol.”
+    + This moment serves as the first time in the story thus far that Anders has shown any hint of fear. While the narrator simply describes it as ‘unease,’ it can be inferred that Anders’ real fear is running much deeper, and the reality of his unfortunate situation is finally starting to hit.
+
+2. “After striking the cranium the bullet was moving at 900 feet per second, a pathetically sluggish, glacial pace compared to the synaptic lighting that flashed around it.”
+    +While at first just a conglomeration of anatomy language, this description epitomizes Anders’ own apathy towards his life. Even when he is feeling himself die, he struggles to think of anything beyond the physical nature of what’s happening. If anything, this is a deeply emotional moment of Anders struggling to let himself feel in the last seconds of his life. 
+
+3. “Anders did not remember how his eyes had burned at those sounds.”
+    + Albeit a short sentence, this is the protagonist’s first foray into showing his emotion. The fact that his eyes burned at the sound of poetry is something that the narrator chooses to reveal about him proves that despite his cold-blooded exterior, moments of deep feeling still overwhelmed him. 
+    
+4. “He did not remember deliberately crashing his father's car into a tree, of having his ribs kicked in by three policemen at an anti-war rally or waking himself up with laughter.”
+    + Without overtly stating anything, the narrator delves into Anders’s more complex emotions: his possible depression, his passion for causes, and his deep desire for humor. Now, Anders is a fully fleshed human being struggling with the same innate human pitfalls as the rest of us.
+    
+5. “But for now Anders can still make time.”
+    + Until this point, the story presents Anders as a protagonist who never had much time for anything, including his ex-wife and daughter. However, this short-lived moment provides a gut-punch in that Anders, for the first time in what might be his life, is not only making the time to remember, but allowing himself to.
+    
+#### Natural Language Processing
+1. He’d had to fight for the privilege of my company, because my mother was still angry with him for sneaking me into a nightclub during his last visit, to see Thelonious Monk.
+    + Anger: 2 | Anticipation: 2 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 1 | Surprise: 0 | Trust: 3 | Negative: 4 | Positive: 3
+
+2. He did not remember a single line of the hundreds of poems he had committed to memory in his youth so that he could give himself the shivers at will - not "Silent, upon a peak in Darien," or "My God, I heard this day," or "All my pretty ones?
+    + Anger: 1 | Anticipation: 3 | Disgust: 0 | Fear: 2 | Joy: 3 | Sadness: 0 | Surprise: 1 | Trust: 3 | Negative: 0 | Positive: 4
+    + 1	3	0	2	3	0	1	3	0	4
+    
+3. What I did not know was that my father would wheedle and plead his way past them—he didn’t sing “O Tannenbaum,” but just about—and get me home for dinner, buying a little more time before my mother decided to make the split final.
+    + Anger: 0 | Anticipation: 3 | Disgust: 0 | Fear: 0 | Joy: 2 | Sadness: 2 | Surprise: 0 | Trust: 3 | Negative: 2 | Positive: 3
+    
+4. Anders couldn't get to the bank until just before it closed, so of course the line was endless and he got stuck behind two women whose loud, stupid conversation put him in a murderous temper.
+    + Anger: 2 | Anticipation: 0 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 2 | Surprise: 1 | Trust: 2 | Negative: 3 | Positive: 1
+    
+5. Time for the shadows to lengthen on the grass, time for the tethered dog to bark at the flying ball, time for the boy in right field to smack his sweat-blackened mitt and softly chant, They is, they is, they is.
+    + Anger: 3 | Anticipation: 2 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 0 | Surprise: 1 | Trust: 0 | Negative: 3 | Positive: 2

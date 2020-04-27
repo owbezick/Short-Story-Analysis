@@ -36,7 +36,7 @@ merged <- merged %>%
 sentences_by_sentiment <- merged[order(merged$total_sentiment, decreasing= T),]
 sentences_by_story <- merged[order(merged$sentence),]
 
-write.csv(sentences_by_story, "HemmingwayChronological.csv")
+write.csv(sentences_by_story, "HemmingwaySentencesChronological.csv")
 # Sentiment Bar Chart Function
 sentimentBar <- function(df, title){
   df %>%
