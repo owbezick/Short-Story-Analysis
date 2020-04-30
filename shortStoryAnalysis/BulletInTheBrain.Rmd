@@ -32,18 +32,17 @@ Each approach will choose the sentences with the highest level. The "by hand" ap
     + Until this point, the story presents Anders as a protagonist who never had much time for anything, including his ex-wife and daughter. However, this short-lived moment provides a gut-punch in that Anders, for the first time in what might be his life, is not only making the time to remember, but allowing himself to.
     
 #### Natural Language Processing
-1. He’d had to fight for the privilege of my company, because my mother was still angry with him for sneaking me into a nightclub during his last visit, to see Thelonious Monk.
-    + Anger: 2 | Anticipation: 2 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 1 | Surprise: 0 | Trust: 3 | Negative: 4 | Positive: 3
+1. He did not remember a single line of the hundreds of poems he had committed to memory in his youth so that he could give himself the shivers at will - not "Silent, upon a peak in Darien," or "My God, I heard this day," or "All my pretty ones?
+    + Anger: 1 | Anticipation: 3 | Disgust: 0 | Fear: 2 | Joy: 3 | Sadness: 0 | Surprise: 1 | Trust: 3 | Negative: 0 | Positive: 0
 
-2. He did not remember a single line of the hundreds of poems he had committed to memory in his youth so that he could give himself the shivers at will - not "Silent, upon a peak in Darien," or "My God, I heard this day," or "All my pretty ones?
-    + Anger: 1 | Anticipation: 3 | Disgust: 0 | Fear: 2 | Joy: 3 | Sadness: 0 | Surprise: 1 | Trust: 3 | Negative: 0 | Positive: 4
-    + 1	3	0	2	3	0	1	3	0	4
-    
-3. What I did not know was that my father would wheedle and plead his way past them—he didn’t sing “O Tannenbaum,” but just about—and get me home for dinner, buying a little more time before my mother decided to make the split final.
-    + Anger: 0 | Anticipation: 3 | Disgust: 0 | Fear: 0 | Joy: 2 | Sadness: 2 | Surprise: 0 | Trust: 3 | Negative: 2 | Positive: 3
-    
-4. Anders couldn't get to the bank until just before it closed, so of course the line was endless and he got stuck behind two women whose loud, stupid conversation put him in a murderous temper.
+2. Anders couldn't get to the bank until just before it closed, so of course the line was endless and he got stuck behind two women whose loud, stupid conversation put him in a murderous temper.
     + Anger: 2 | Anticipation: 0 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 2 | Surprise: 1 | Trust: 2 | Negative: 3 | Positive: 1
     
-5. Time for the shadows to lengthen on the grass, time for the tethered dog to bark at the flying ball, time for the boy in right field to smack his sweat-blackened mitt and softly chant, They is, they is, they is.
+3. Time for the shadows to lengthen on the grass, time for the tethered dog to bark at the flying ball, time for the boy in right field to smack his sweat-blackened mitt and softly chant, They is, they is, they is.
     + Anger: 3 | Anticipation: 2 | Disgust: 1 | Fear: 2 | Joy: 1 | Sadness: 0 | Surprise: 1 | Trust: 0 | Negative: 3 | Positive: 2
+    
+4. "I just think it's a pretty lousy way to treat your customers."
+    + Anger: 1 | Anticipation: 2 | Disgust: 1 | Fear: 1 | Joy: 2 | Sadness: 1 | Surprise: 1 | Trust: 2 | Negative: 1 | Positive: 2
+    
+5. Anders had conceived his own towering hatred of the teller, but he immediately turned it on the presumptuous crybaby in front of him.
+    + Anger: 2 | Anticipation: 2 | Disgust: 2 | Fear: 2 | Joy: 0 | Sadness: 1 | Surprise: 0 | Trust: 0 | Negative: 3 | Positive: 2

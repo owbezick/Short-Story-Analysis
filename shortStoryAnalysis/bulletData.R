@@ -6,7 +6,7 @@ raw_lines <- pdf_text("stories/bullet.pdf") %>%
 
 # Text Preprocessing ----
 # Extract interview Lines
-raw_story <- raw_lines[3:451]
+raw_story <- raw_lines[3:162]
 
 # Append into single string
 story_str= ""
@@ -57,3 +57,4 @@ sentimentBar <- function(df, title){
     e_legend(bottom = 0) %>%
     e_tooltip()
 }
+

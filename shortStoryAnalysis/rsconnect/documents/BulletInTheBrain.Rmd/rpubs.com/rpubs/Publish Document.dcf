@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/605812/c45f853f5f6142d1b40a17d7f6622778
+bundleId: https://api.rpubs.com/api/v1/document/605812/c45f853f5f6142d1b40a17d7f6622778
+url: http://rpubs.com/owbezick/605812
+when: 1588207710.05858
